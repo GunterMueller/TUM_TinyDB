@@ -1,4 +1,5 @@
 #include "Register.hpp"
+#include <cstdint>
 //---------------------------------------------------------------------------
 Register::Register()
    : state(State::Unbound)
